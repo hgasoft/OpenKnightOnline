@@ -1,0 +1,5 @@
+outs:
+- md5: 6e8a8231b6ad1c6c66990a3ce804314b.dir
+  size: 445616
+  nfiles: 7
+  path: lib
